@@ -1,6 +1,6 @@
 # PreTesto
 
-"PreTesto" è un font variabile derivato da "Unna" (con alcune modifiche).
+"PreTesto" è un font variabile derivato da "[Unna](https://github.com/Omnibus-Type/Unna)" di Omnibus Type (con alcune modifiche).
 
 Per maggiori informazioni e per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/PreTesto/).
 
