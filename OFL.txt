@@ -1,3 +1,4 @@
+Copyright (c) 2019, The Unna Project Authors (https://github.com/Omnibus-Type/Unna)
 Copyright (c) 2023 Michele Casanova.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
